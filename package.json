@@ -1,6 +1,6 @@
 {
   "name": "react-pdf-thumbnail",
-  "version": "0.1.0",
+  "version": "2.0.1",
   "description": "Create a thumbnail from pdf",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,9 @@
     "vuejs",
     "js"
   ],
-  "author": "Pankaj Vashisht",
+  "author": "Vraj Shah",
   "license": "MIT",
   "dependencies": {
-    "pdfjs-dist": "^2.7.570"
+    "pdfjs-dist": "^2.16.105"
   }
 }
